@@ -1,5 +1,5 @@
 # desafio02_recriando_layout
-ferramenta Figma;
+Ferramenta Figma;
 estrutura inicial do HTML;
 estrutura inicial do CSS;
 utilizar cores no CSS;
